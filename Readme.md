@@ -45,7 +45,7 @@ A simple rule engine application built with Node.js, PostgreSQL, and Sequelize O
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/example-user/rule-engine.git
+   git clone https://github.com/Jatingupta9120/Rule-Engine-AST
    cd rule-engine
    ```
 
